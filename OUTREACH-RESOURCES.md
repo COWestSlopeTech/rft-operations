@@ -1,6 +1,6 @@
 [Carbondale](#Carbondale)  
-[Basalt](#Basalt) 
-[Glenwood Springs](#GlenwoodSprings)  
+[Basalt](#Basalt)
+[Glenwood Springs](#Glenwood)  
 [Aspen](#Aspen) 
 
 # Carbondale
@@ -20,6 +20,6 @@ The free weekly newsletter, is text only (up to 10 sentences) with business logo
 
 # Basalt
 
-# Glenwood Springs
+# Glenwood
 
 # Aspen
