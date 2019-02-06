@@ -1,6 +1,6 @@
 [Carbondale](#Carbondale)  
 [Basalt](#Basalt) 
-[Glenwood Springs](#Glenwood Springs)  
+[Glenwood Springs](#GlenwoodSprings)  
 [Aspen](#Aspen) 
 
 # Carbondale
