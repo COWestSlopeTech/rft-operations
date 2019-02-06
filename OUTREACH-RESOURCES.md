@@ -18,7 +18,7 @@ The free weekly newsletter, is text only (up to 10 sentences) with business logo
 #### $10 monthly eFlyer sent on the 1st week of each month (dedicated flyer attached to email news letter)
 ($10 to participate) is sent the first full week of each month and consists of PDF flyers with a “learn more” links. Due to Katie by noon on the last Wednesday of the month.
 
-#### 100 standalone eFlyer
+#### $100 standalone eFlyer
 ($100 to participate) may contain text, image, pdf flyer, etc. and is sent as a solo ad to the Chamber’s contact database on the behalf of the member. Send date is flexible. Contact Katie for more info and to schedule your Stand-Alone eFlyer.
 
 ## Launch Pad (community arts)
