@@ -1,3 +1,6 @@
+[Carbondale](#Carbondale)  
+[Basalt](#Basalt) 
+
 # Carbondale
 
 ## Chamber of Commerce
