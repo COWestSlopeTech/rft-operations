@@ -1,4 +1,5 @@
-## Carbondale
+# Carbondale
+
 ### Chamber of Commerce
 The Chamber has three primary ways to help promote events:
 #### FREE community calendar
@@ -11,3 +12,9 @@ The free weekly newsletter, is text only (up to 10 sentences) with business logo
 
 #### 100 standalone eFlyer
 ($100 to participate) may contain text, image, pdf flyer, etc. and is sent as a solo ad to the Chamber’s contact database on the behalf of the member. Send date is flexible. Contact Katie for more info and to schedule your Stand-Alone eFlyer.
+
+# Basalt
+
+# Glenwood Springs
+
+# Aspen
