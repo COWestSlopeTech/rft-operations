@@ -22,10 +22,16 @@ The free weekly newsletter, is text only (up to 10 sentences) with business logo
 ($100 to participate) may contain text, image, pdf flyer, etc. and is sent as a solo ad to the Chamber’s contact database on the behalf of the member. Send date is flexible. Contact Katie for more info and to schedule your Stand-Alone eFlyer.
 
 ## Launch Pad (community arts)
-coming soon...
+Coming soon...
 
 # Basalt
+## Chamber of Commerce
+Coming soon
 
 # Glenwood
+## Chamber of Commerce
+Coming soon
 
 # Aspen
+## Chamber of Commerce
+Coming soon
