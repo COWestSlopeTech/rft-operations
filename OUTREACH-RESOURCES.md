@@ -26,12 +26,12 @@ Coming soon...
 
 # Basalt
 ## Chamber of Commerce
-Coming soon
+Coming soon...
 
 # Glenwood
 ## Chamber of Commerce
-Coming soon
+Coming soon...
 
 # Aspen
 ## Chamber of Commerce
-Coming soon
+Coming soon...
