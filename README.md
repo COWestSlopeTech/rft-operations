@@ -1,3 +1,3 @@
 # rft-operations
 
-[https://github.com/RoaringForkTech/rft-operations/blob/master/OUTREACH-RESOURCES.md](test)
+[Outreach Resources](https://github.com/RoaringForkTech/rft-operations/blob/master/OUTREACH-RESOURCES.md)
