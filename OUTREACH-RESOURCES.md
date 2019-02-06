@@ -1,6 +1,6 @@
 # Carbondale
 
-### Chamber of Commerce
+## Chamber of Commerce
 The Chamber has three primary ways to help promote events:
 #### FREE community calendar
 Submit requests for an event to be added to the calendar [here](http://carbondalechamber.chambermaster.com/events/public-submission)
