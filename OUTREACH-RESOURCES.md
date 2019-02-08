@@ -7,6 +7,9 @@
 ## Radio
 * [KDNK](http://www.kdnk.org/community-calendar/events/create#event-guidelines)
 
+## News
+* [Sopris Sun](https://www.soprissun.com/events/community/add)
+
 ####
 
 # Carbondale
