@@ -17,7 +17,13 @@ KDNK has two ways to get the word out.
 #### [Aspen Public Radio](https://www.aspenpublicradio.org/community-calendar/events/create)
 
 ## News
-* [Sopris Sun](https://www.soprissun.com/events/community/add)
+#### Sopris Sun 
+[Sopris Sun](https://www.soprissun.com/events/community/add)
+#### Mountain Town Magazine
+[MTN Town Magazine](https://mtntownmagazine.com/events-calendar/) also mtntownmagazine@gmail.com
+#### Roaring Fork Weekly
+John Fayhee mjf@rfweeklyjournal.com
+
 
 ####
 
@@ -41,7 +47,12 @@ Coming soon...
 
 # Basalt
 ## Chamber of Commerce
-Coming soon...
+#### Weekly email newsletter – $40 non-member (members get a certain allotment, and a discounted rate)
+#### Custom email newsletter - $200 non-member
+#### Event listing
+[Chamber Public Listing](http://business.basaltchamber.org/events/public-submission)
+
+The Chamber can share events on their Facebook page if it's business specific.
 
 # Glenwood
 ## Chamber of Commerce
@@ -50,3 +61,14 @@ Coming soon...
 # Aspen
 ## Chamber of Commerce
 Coming soon...
+## News
+#### Aspen Sojourner – Nancy Mayer nancy@aspensojourner.com (Also Beth Albert’s neighbor, so Beth can probably plant some seeds)
+
+## News
+#### Aspen Daily News
+[Aspen Daily News Calendar](https://www.aspendailynews.com/users/admin/calendar/event/) (requires an Aspen Daily News account first to fill out the form)
+
+#### Aspen Times
+Aspen Times or Aspen Times Weekly - Andrew Travers, Arts Reporter for the Aspen Times: Atravers@aspentimes.com     
+
+
