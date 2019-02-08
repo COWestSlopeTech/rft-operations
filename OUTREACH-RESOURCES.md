@@ -6,6 +6,7 @@
 
 ## Radio
 * [KDNK](http://www.kdnk.org/community-calendar/events/create#event-guidelines)
+* [Aspen Public Radio](https://www.aspenpublicradio.org/community-calendar/events/create)
 
 ## News
 * [Sopris Sun](https://www.soprissun.com/events/community/add)
