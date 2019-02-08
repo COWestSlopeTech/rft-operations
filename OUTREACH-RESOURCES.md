@@ -1,12 +1,20 @@
 
 # Roaring Fork Valley
 ## Facebook
-* [Roaring Fork Events](https://www.facebook.com/groups/RFVEvents/)
-* [Roaring Fork Swap](https://www.facebook.com/groups/1765444757019581/)
+#### [Roaring Fork Events](https://www.facebook.com/groups/RFVEvents/)
+#### [Roaring Fork Swap](https://www.facebook.com/groups/1765444757019581/)
 
 ## Radio
-* [KDNK](http://www.kdnk.org/community-calendar/events/create#event-guidelines)
-* [Aspen Public Radio](https://www.aspenpublicradio.org/community-calendar/events/create)
+#### KDNK
+KDNK has two ways to get the word out. 
+* FREE - To add to the community calendar use the online form: [KDNK](http://www.kdnk.org/community-calendar/events/create#event-guidelines)
+* To get the even mentioned on the radio email calendar@kdnk.org with 
+1. Title
+2. What it is (1 or 2 sentences)
+3. When it is
+4. Where it is
+5. Include - "More details can be found on the Roaring Fork Technologist Facebook group or RoaringForkTechnologists.com"
+#### [Aspen Public Radio](https://www.aspenpublicradio.org/community-calendar/events/create)
 
 ## News
 * [Sopris Sun](https://www.soprissun.com/events/community/add)
