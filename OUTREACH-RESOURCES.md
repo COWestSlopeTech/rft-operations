@@ -21,7 +21,7 @@ KDNK has two ways to get the word out.
 #### Mountain Town Magazine
 Email [MTN Town Magazine](https://mtntownmagazine.com/events-calendar/) at mtntownmagazine@gmail.com
 #### Roaring Fork Weekly
-John Fayhee mjf@rfweeklyjournal.com
+Email John Fayhee mjf@rfweeklyjournal.com
 
 
 ####
