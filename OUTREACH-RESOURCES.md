@@ -2,7 +2,6 @@
 # Roaring Fork Valley
 ## Facebook
 #### [Roaring Fork Events](https://www.facebook.com/groups/RFVEvents/)
-#### [Roaring Fork Swap](https://www.facebook.com/groups/1765444757019581/)
 
 ## Radio
 #### KDNK
