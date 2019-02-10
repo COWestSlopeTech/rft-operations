@@ -19,7 +19,7 @@ KDNK has two ways to get the word out.
 #### Sopris Sun 
 [Sopris Sun](https://www.soprissun.com/events/community/add)
 #### Mountain Town Magazine
-[MTN Town Magazine](https://mtntownmagazine.com/events-calendar/) also mtntownmagazine@gmail.com
+Email [MTN Town Magazine](https://mtntownmagazine.com/events-calendar/) at mtntownmagazine@gmail.com
 #### Roaring Fork Weekly
 John Fayhee mjf@rfweeklyjournal.com
 
