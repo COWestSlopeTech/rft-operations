@@ -7,7 +7,7 @@
 #### KDNK
 KDNK has two ways to get the word out. 
 * FREE - To add to the community calendar use the online form: [KDNK](http://www.kdnk.org/community-calendar/events/create#event-guidelines)
-* To get the even mentioned on the radio email calendar@kdnk.org with 
+* To get the event mentioned on the radio email calendar@kdnk.org with 
 1. Title
 2. What it is (1 or 2 sentences)
 3. When it is
