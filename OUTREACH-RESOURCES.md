@@ -61,7 +61,8 @@ Coming soon...
 ## Chamber of Commerce
 Coming soon...
 ## News
-#### Aspen Sojourner – Nancy Mayer nancy@aspensojourner.com (Also Beth Albert’s neighbor, so Beth can probably plant some seeds)
+#### Aspen Sojourner 
+Email Nancy Mayer nancy@aspensojourner.com 
 
 ## News
 #### Aspen Daily News
