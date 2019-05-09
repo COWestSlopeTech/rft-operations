@@ -9,7 +9,7 @@
 
 ## Radio
 
-#### Geek Speak
+#### Geek Speak (1st and 3rd mondays)
 * FREE - contact Matt McBryer
 
 #### KDNK
