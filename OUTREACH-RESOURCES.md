@@ -1,3 +1,7 @@
+# RFT Regular Meetup List
+* Geek Speak
+* KDNK
+
 
 # Roaring Fork Valley
 ## Facebook
